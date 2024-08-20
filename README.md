@@ -45,7 +45,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Project-Tugas-Mario-Less!">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=By sp?,SIJAX KECE">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=By, SIJAX KECE">
 </div>
 
 
